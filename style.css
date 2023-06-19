@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+    background-image: url("table.png");
+    background-size: cover;
+    font-weight: bold;
+    color: white;
+    font-size: 20px;
+}
+.image{
+    opacity: 0.3;
+}
+
+.heading{
+    color: yellow;
+    font-size: 50px;
+    margin-bottom: 50px;
+    margin-top: 20px;
+}
+
+.buttons{
+    width: 150px;
+    height: 40px;
+    border-radius: 15px;
+    background-color: aqua;
+    cursor: pointer;
+}
